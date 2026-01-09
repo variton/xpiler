@@ -5,7 +5,8 @@ It's main purpose is to facilitate the compiling of software components such as:
 * cxx
 * rust
 * python
-* c 
+* c
+* zig
 
 *remark*:
     *the tools should be developed and tested on ubuntu 22.02,24.04 only*
