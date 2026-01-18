@@ -21,6 +21,16 @@ git clone https://github.com/variton/xpiler.git .
 *remark*:
     *add to the linux PATH the path to the tool you want to use*
 
+## Development environment setup
+*remark:*
+    *make sure you have the rights to pull the docker image*
+
+```
+docker pull ghcr.io/variton/ixpiler:1.0
+
+```
+
+
 ## Vim plugin
 
 This vim plugin that allows to compile:
